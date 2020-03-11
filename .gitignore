@@ -15,3 +15,6 @@ public/webfonts/*
 !Gruntfile.js
 !webpack.*.js
 !local_node_modules/**
+
+# _krush ignore
+_krush
